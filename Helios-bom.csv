@@ -1,0 +1,6 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"Power bank","For powering the whole thing",1,9.67,"https://amzn.in/d/04XUEX8J","Amazon"
+"Servo motors","For controlling the antennas angles",2,6.44,"https://amzn.in/d/05ZA7e2E","Amazon"
+"Hdmi display ","Display fir raspberry pi",1,26.89,"https://share.google/yMD8jkjwN6h3NszzG","Amazon"
+"Raspberry pi 3","For computing",1,53.44,"https://share.google/izGul9FUVGp6Cndx5","Amazon"
+"Rtl sdr combo","For input of noaa satellites ",1,84.39,"https://share.google/TFSeEhCjqbgkWrD7y","Digikey"
