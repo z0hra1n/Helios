@@ -9,6 +9,10 @@ I made this project because space and radiowaves fascinate me and also it was ma
 
 ![20260403_033240](https://github.com/user-attachments/assets/7f8273b9-1b77-4392-a81a-529655ac0863)
 
+
+
+
+
 +------------------+----------------------------------+----------+------------------+-------------+
 | Name             | Purpose                          | Quantity | Total Cost (USD) | Distributor |
 +------------------+----------------------------------+----------+------------------+-------------+
